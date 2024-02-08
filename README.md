@@ -1,10 +1,18 @@
-### Hi my name is Jorgelina Ramos 👋
+### Hola mi nombre es Jorgelina Ramos 👋
 ==================================
 ## Data Scientist
 --------------------
-🌎I'm based in Argentina
+🌎Vivo en Argentina
 
- ✉ You can contact me at jorgelinapramos@hotmail.com
+En mi trayectoria como administrativa y profesora de Economía, he desarrollado un sólido conocimiento en estas áreas, lo cual me ha permitido cultivar habilidades clave como la responsabilidad, la dedicación y la adaptabilidad. Además, mi facilidad para el estudio me ha impulsado a explorar nuevos horizontes en el mundo de la programación y, especialmente, en la apasionante disciplina de la ciencia de datos.
+
+Estoy entusiasmada por seguir aprendiendo y manteniéndome al tanto de las últimas tecnologías y enfoques en el campo de la ciencia de datos. Mi experiencia previa en roles administrativos me ha brindado una sólida base en la gestión eficiente de datos y procesos, mientras que mi experiencia como profesora de Economía me ha permitido desarrollar habilidades de comunicación efectiva y análisis crítico. Poseo conocimientos en lenguajes de programación como Python y ciencia de datos con bibliotecas como Pandas, NumPy y Scikit-learn, incluyendo la Exploración de Datos (EDA). También he trabajado con bases de datos MySQL. En el ámbito de la visualización he utilizado Power BI, Matplotlib y Seaborn. Además, soy una colaboradora activa en GitHub, tengo experiencia en el desarrollo de APIs con FastAPI y en la creación de procesos ETL (Extract, Transform, Load) para la integración de datos.
+
+Me gusta el aprendizaje continuo, así que estoy dispuesta a aprender nuevas tecnologías, técnicas y métodos. Si estás buscando un profesional en Data Science colaborativo, que disfruta trabajando en equipo y siempre está en constante aprendizaje.
+Estoy convencida de que puedo aportar valor a tu equipo y ayudarte a alcanzar tus objetivos en el campo de la ciencia de datos.
+
+ ✉ Tu puedes contactarme +549 2396510483 | jorgelinapramos@hotmail.com
+                   
 
 
 
