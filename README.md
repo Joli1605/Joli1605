@@ -11,7 +11,7 @@ Estoy entusiasmada por seguir aprendiendo y manteniéndome al tanto de las últi
 Me gusta el aprendizaje continuo, así que estoy dispuesta a aprender nuevas tecnologías, técnicas y métodos. Si estás buscando un profesional en Data Science colaborativo, que disfruta trabajando en equipo y siempre está en constante aprendizaje.
 Estoy convencida de que puedo aportar valor a tu equipo y ayudarte a alcanzar tus objetivos en el campo de la ciencia de datos.
 
- ✉ Tu puedes contactarme +549 2396510483 | jorgelinapramos@hotmail.com
+ ✉ Tu puedes contactarme Tel: +549 2396510483 | Mail: jorgelinapramos@hotmail.com
                    
 
 
